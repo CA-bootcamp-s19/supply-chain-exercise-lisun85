@@ -4,7 +4,8 @@
     https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html
 */
 
-pragma solidity ^0.5.0;
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.4.21 <0.7.0;
 
 contract SupplyChain {
 
